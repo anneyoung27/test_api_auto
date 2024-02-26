@@ -7,6 +7,7 @@ The purpose of this project is to learn and understand how to automate API using
 - Language: JavaScript
 - Package Manager: npm
 - Framework: SuperTest, Mocha, Chai
+- Report: Mochawesome
   
 # Report
 ![REPORT](https://github.com/anneyoung27/test_api_auto/assets/63891089/0cf81c16-f92a-4185-934e-04ec09ffbaa1)
