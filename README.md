@@ -1,5 +1,5 @@
 # Introduction
-The purpose of this project is to learn and understand how to automate API using JavaScript language with the SuperTest, Mocha, and Chai frameworks.
+The purpose of this project is to learn and understand how to automate API using JavaScript language with the SuperTest, Mocha, and Chai frameworks in https://reqres.in/
 
 # Technology 
 - IDE: Visual Studio Code
